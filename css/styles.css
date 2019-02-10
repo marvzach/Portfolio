@@ -65,3 +65,37 @@ a:active {
   clear: both;
   padding: 120px;
 }
+.logo{
+  height: 90px;
+  width: 200px;
+}
+.intro-heading1{
+  font-size: 60px;
+}
+.intro-heading1 span{
+  color: red;
+}
+.intro-heading2{
+  font-size: 50px;
+  padding: 30px;
+}
+.me{
+  font-size: 20px;
+  border: 2px solid white;
+  border-radius: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-family: 'Jacques Francois', serif;
+}
+.me:hover{
+  background-color: red;
+}
+.mypic{
+  height: 500px;
+  width: 400px;
+  float: left;
+  padding-right: 40px;
+
+}
