@@ -8,7 +8,7 @@ Marvin  Portfolio.
 Marvin Zachary  
 @marvin Ayieko(https://www.facebook.com/zayieko)
 ## Technologies Used
-HTML and CSS 
+HTML,CSS and Logojoy
 ## Setup instructions
     1. Its really simple just find my repository in github or simply type this url in your browser https://marvzach.github.io/
     2. Secondly Navigate through the website and if interested in my work simply just contact me through the contact form in the contact section.
