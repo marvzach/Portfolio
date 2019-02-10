@@ -254,3 +254,48 @@ span{
 .port3 img{
   height: 300px;
 }
+input[type=text], textarea {
+  width: 90%;
+  padding: 12px;
+  border: 1px solid grey;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  border-radius: 15px;
+  background-color: #095F8A;
+
+}
+input[type=email], textarea {
+  width: 90%;
+  padding: 12px;
+  border: 1px solid grey;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  border-radius: 15px;
+  background-color: #095F8A;
+
+}
+
+input[type=submit] {
+  background-color: #098A82;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  width: 100px;
+  border-radius: 5px;
+}
+input[type=reset] {
+  background-color: #095F8A;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  width: 100px;
+  border-radius: 5px;
+
+}
+
+input[type=submit]:hover {
+  background-color: red;
+}
+input[type=reset]:hover {
+  background-color: red;
+}
