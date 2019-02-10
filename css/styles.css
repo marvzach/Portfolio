@@ -117,3 +117,106 @@ a:active {
   font-size: 18px;
   font-family: 'PT Sans', sans-serif;
 }
+.about-paragraph span{
+  color: red;
+}
+.info{
+  font-size: 17px;
+  border: 2px solid white;
+  border-radius: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-family: 'PT Sans', sans-serif;
+  background-color:lightblue;
+  border-radius: 10px;
+  color: white;
+}
+.info:hover{
+  background-color: blue;
+  color: black;
+}
+#education{
+  background-image: url('../images/bg5.jpg');
+  background-size: cover;
+  height: 150px;
+  border-radius: 10px;
+  margin-top: 100px;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: 100px;
+  font-family: 'PT Sans', sans-serif;
+  width: 1000px;
+}
+#education h1{
+  color: white;
+  text-align: center;
+}
+#services{
+  background-image: url('../images/bg5.jpg');
+  background-size: cover;
+  height: 150px;
+  border-radius: 10px;
+  margin-top: 100px;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: 100px;
+  font-family: 'PT Sans', sans-serif;
+  width: 1000px;
+}
+#services h1{
+  color: white;
+  text-align: center;
+
+}
+.edu{
+  background-color: white;
+  border: 1px solid white;
+  box-shadow: 0px 3px blue;
+  border-radius: 10px;
+  height: 280px;
+  width: 290px;
+  float: left;
+  margin: 10px;
+  text-align:left;
+}
+.edu h1{
+  color: black;
+}
+span{
+  color: red;
+}
+#contact{
+  background-image: url('../images/bg8.png');
+  height: 500px;
+  width: 1200px;
+  margin-top: 200px;
+  margin-left: 30px;
+}
+.cont{
+  clear: both;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 20px;
+  color: white;
+  padding: 30px;
+  text-align: center;
+}
+.column {
+  float: right;
+  width: 40%;
+  padding: 10px;
+  height: 300px;
+  box-sizing: border-box;
+  font-size: 20px;
+}
+.column p{
+  text-align:left;
+  font-size: 20px;
+}
+.social-media img{
+  height: 70px;
+  width: 70px;
+  padding: 30px;
+  border-radius: 30px;
+}
