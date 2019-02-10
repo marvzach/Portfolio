@@ -305,3 +305,12 @@ input[type=reset]:hover {
   text-align: left;
   border-radius: 5px;
 }
+#follow{
+  text-align: center;
+  margin-top: 60px;
+  font-size: 40px;
+  width: 1100px;
+}
+#follow p{
+  font-size: 10px;
+}
