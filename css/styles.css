@@ -299,3 +299,9 @@ input[type=submit]:hover {
 input[type=reset]:hover {
   background-color: red;
 }
+.contact-us-form {
+  float: left;
+  width: 50%;
+  text-align: left;
+  border-radius: 5px;
+}
