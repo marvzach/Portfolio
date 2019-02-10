@@ -14,7 +14,7 @@ body{
   height:480px;
   width: 1250px;
 }
-intro{
+.intro{
   text-align: center;
   color: white;
 }
@@ -99,6 +99,7 @@ a:active {
   padding-right: 40px;
 
 }
+
 #about{
   padding-left: 180px;
   padding-top: 20px;
@@ -220,6 +221,9 @@ span{
   padding: 30px;
   border-radius: 30px;
 }
+
+
+
 .port2 {
   float: left;
   width: 33.3%;
@@ -299,6 +303,7 @@ input[type=submit]:hover {
 input[type=reset]:hover {
   background-color: red;
 }
+
 .contact-us-form {
   float: left;
   width: 50%;
