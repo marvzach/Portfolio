@@ -99,3 +99,21 @@ a:active {
   padding-right: 40px;
 
 }
+#about{
+  padding-left: 180px;
+  padding-top: 20px;
+  width: 1000px;
+  height: 600px;
+}
+.p-about{
+  font-size: 20px;
+}
+.about-paragraph{
+  font-size: 30px;
+  padding-top: 30px;
+  font-family: 'PT Sans', sans-serif;
+}
+.about-paragraph p{
+  font-size: 18px;
+  font-family: 'PT Sans', sans-serif;
+}
